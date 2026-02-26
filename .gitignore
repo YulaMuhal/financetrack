@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+*.env
+# VSCode
+.vscode/
+.idea/
+# Sistema
+.DS_Store
+Thumbs.db
+# Dependˆncias
+*.egg-info/
+dist/
+build/
+# Logs
+*.log
